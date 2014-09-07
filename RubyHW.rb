@@ -3,6 +3,7 @@
 #AJ'PAC~~~~~~~!! if u see this i would love to have you help me learn the better way to write this!!
 #@name part, i heard from somewhere that the first 2 words in the name are the whole 'first name'
 #so i made the result like that. pls tell if i did something wrong.
+#examples are song hyE kyO and kim taE heE.
 
 require "csv"
 
